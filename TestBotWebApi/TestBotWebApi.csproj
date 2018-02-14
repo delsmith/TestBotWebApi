@@ -177,7 +177,6 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
-    <None Include="Controllers\TestBotController.cs.ng" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\TestbotController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
